@@ -1,0 +1,262 @@
+'h' : 'h',
+'days' : 'days',
+'Settings_for' : 'Settings',
+'Gambling_Exclusion' : 'Gambling Exclusion',
+'Parental_Control' : 'Parental Control',
+'Select_length' : 'Select an exclusion length',
+'warning_str_1' : 'WARNING - By activating this Parental Control restriction this device will be prevented from accessing the sites you select in this tool for',
+'warning_str_2' : 'During the restriction period you will only be able to lift this restriction with the password you have created. Your password cannot be reset or recovered. If you lose or forget your password your chosen restrictions will automatically be lifted at the end of your chosen restriction period.',
+
+'CONFIRM' : 'CONFIRM',
+'NEXT' : 'NEXT',
+'step' : 'step',
+'Step' : 'Step',
+'Settings_for' : 'Setting',
+
+'Select_type' : 'Select an exclusion type',
+'Calendar_Schedule' : 'Calendar Schedule',
+'Fixed_Period' : 'Fixed Period',
+'fixed_period_str_1' : '* Fixed Period allows you to block from right now until a specific date.',
+'fixed_period_str_2' : '* Calendar Schedule allows you to pick specific days/dates where the lock will start and stop.',
+
+
+
+
+
+
+
+'Previous' : 'Previous',
+'Today' : 'Today',
+
+
+
+
+'SAVE' : 'SAVE',
+
+'Block_Type' : 'Change Block Type Bet Blocker App',
+'Select_Block_Type' : 'Select Block Type',
+'we_have_str_1' : 'We have three different ways to enforce your restriction for desktop devices. There are strengths and weaknesses to each. Please click here to find help selecting the',
+'we_have_str_2' : 'best block type for you',
+'VPN_server' : 'VPN server',
+'Local_block' : 'Local block',
+'Local_block_VPN' : 'Local block + VPN server',
+'Enter_password' : 'Enter password',
+'show' : 'show',
+
+
+
+
+
+'Contact_support' : 'Contact support',
+'Guidance' : 'Guidance on suggesting a site',
+'Enter_your_email' : 'Enter your email',
+'attach' : 'Please attach image or video:',
+'Your_message' : 'Your message:',
+
+'SEND' : 'SEND',
+
+
+
+'Add_Websites_To_Block' : 'Add Websites To Block',
+'ADD' : 'ADD',
+'note_str' : 'Note: Use this tool to customize your own list of websites to block. These can be any sites from gambling related, social media or other.',
+
+
+'Enter_new_website' : 'Enter new website',
+
+'Step' : 'Step'
+'Local_block_server' : 'Local block + VPN server',
+
+
+'SETTINGS' : 'SETTINGS',
+'When_updated_will_reboot' : 'When websites are updated, your device will reboot!',
+
+
+'Restriction_currently' : 'Restriction currently',
+'Restriction_type' : 'Restriction type:',
+'fully_active_str' : 'To fully activate your exclusion BetBlocker requires that you restart your device. Please reboot your device now.',
+'pending_websites_str' : 'You have pending websites, click to update and reboot device',
+'get_last_websites_str' : 'Get last websites, your computer will be automatically restarted after update',
+'allowed_to_unlock_str' : 'You are allowed to unblock websites from BB admin, click to unblock and reboot device',
+'should_allow_str' : 'You should allow Admin Access to the app to activate the website block, please click and try again!',
+'Blocking_Online_Gambling_Sites' : 'Blocking Online Gambling Sites',
+'EDIT' : 'EDIT',
+'Edit' : 'Edit',
+'Blocking_Gambling_Information_Sites' : 'Blocking Gambling Information Sites',
+'Blocking_Pornography_Sites' : 'Blocking Pornography Sites',
+'Blocking_Custom_URLs' : 'Blocking Custom URLs',
+'Password_has_been_set' : 'Password has been set',
+'CHANGE_BLOCK_TYPE' : 'CHANGE BLOCK TYPE',
+'DEACTIVATE_APP' : 'DEACTIVATE APP',
+'The_mail' : 'The mail has been sent successfully',
+'CONTACT_US' : 'CONTACT US',
+'NL' : 'NL',
+'EN' : 'EN',
+'DE' : 'DE',
+'RO' : 'RO',
+'ES' : 'ES',
+'SE' : 'SE',
+
+'Remove_Extend_Restrictions' : 'Remove/Extend Restrictions',
+'Remove_Restrictions' : 'Remove Restrictions',
+'Your_Parental_Restrictions' : 'Your Parental Restrictions will lift automatically in ',
+'View_your_restriction' : 'View your restriction calendar or add new dates',
+'Exclusion_can' : 'Exclusion can be lifted in ',
+'Deactivate_Bet_Blocker_App' : 'Deactivate Bet Blocker App',
+
+
+
+
+
+
+
+
+'we_have_string' : 'We have three different ways to enforce your restriction for desktop devices. There are strengths and weaknesses to each. Please click here to find help selecting the',
+'best_block' : 'best block type for you',
+
+
+'Local_block_VPN_server' : 'Local block + VPN server',
+
+
+
+
+'Password_is_not_valid' : 'Password is not valid!',
+'Please_select_period ' : 'Please select period',
+
+'Settings_for' : 'Settings for',
+'Extend_Restriction' : 'Extend Restriction',
+'Remove_Restrictions' : 'Remove Restrictions',
+'custom_sites_your_Gambling' : ' custom sites in your Gambling-Exclusion.',
+
+
+
+'Version' : 'Version:',
+'User_id' : 'User id:',
+'Charity_Registration' : 'Charity Registration',
+'find_more_help' : 'Find more help',
+'Settings_for': 'Settings',
+'Gambling_Exclusion': 'Gambling Exclusion',
+'Parental_Control': 'Parental Control',
+'Step_4': 'Block Gambling Information Sites',
+'Block_Gambling_Information_Sites': 'Block Gambling Information Sites',
+
+'gambling_information_sites_string': 'gambling information sites. The primary purpose of these sites is to inform users about and advertise gambling services. You can choose to include these sites in your restriction by ticking the box below. Please note that this is only a small selection of the higher traffic sites of this nature.',
+'note_string': 'Note: If you have an ongoing complaint against a gambling operator being managed by an affiliate based dispute mediation service including gambling information sites in your restriction may prevent you accessing this service.',
+'BACK': 'BACK',
+'NEXT': 'NEXT',
+'step': 'step',
+'want_to_incl_1': 'I want to include gambling information sites in my restriction.',
+'want_to_incl_2': ' I want to include gambling information sites in my Gambling-Exclusion',
+'pornographic_sites_restriction' : ' pornographic sites in your restriction.',
+'gambling_information' : ' gambling information sites in your restriction.',
+'gambling_operator' : ' gambling operator sites in your restriction.',
+'Even_deleting_uninstalling' : ' has  passed. Even deleting/uninstalling this tool will NOT remove this restriction.',
+'lift_this_exclusion_until' : 'You understand that you will not be able to lift this exclusion until ',
+'you_understand_that_str' : 'You understand that you will not be able to lift this exclusion for 5 years and after this period can only do so by entering your password. Even deleting/uninstalling this tool will NOT remove this restriction.',
+
+'gambling_information_sites' : ' gambling information sites in your Gambling-Exclusion.',
+'gambling_exclude_forever_str' : 'You have chosen to Gambling-Exclude Forever. This exclusion will remain in place for a minimum period of 5 years. At the end of this 5 year period can deactivate this Self-Exclusion, but only by entering the password you created.',
+'your_password_str' : 'Your password cannot be reset or recovered – it is your responsibility to keep this safe.',
+'you_choose_to_deactivate_str' : 'If you choose to deactivate your Gambling-Exclusion the restrictions will remain in place for a 1 week Cooling Off period and then the restrictions will automatically be removed',
+'place_unless_you_specifically_deactivate' : '. At the end of this period your Self-Exclusion will remain in place unless you specifically deactivate it.',
+'gambling_operators' : ' gambling operators.',
+'At_end_of_this_period_your' : '. At the end of this period your Gambling Exclusion will be automatically lifted.',
+'You_be_excluded_from_list' : 'You will be excluded from our list of ',
+'You_Gambling_Exclude_for' : 'You have chosen to Gambling-Exclude for ',
+'chosen_to_include_our_list' : 'You’ve chosen to include our list of ',
+'custom_sites_restriction' : ' custom sites in your restriction.',
+'chosen_to_include' : 'You’ve chosen to include ',
+'automatically_lifted' : '. At the end of this period your restriction will be automatically lifted.',
+'chosen_to_set' : 'You have chosen to set a restriction for ',
+'has_passed' : ' has passed.',
+'you_understand_str' : ' You understand that you will only be able to lift this restriction by entering the password you have set. Even deleting/uninstalling this tool will NOT remove this restriction. You cannot reset or recover your password and as such, if you lose your password you will not be able to lift this restriction until ',
+'I_agree' : 'I agree to the above.',
+
+
+'Your_changes_to_the_calendar_will_be_automatically_saved' : 'Your changes to the calendar will be automatically saved!',
+'CLOSE' : 'CLOSE',
+'When_activation_is_ready' : 'When activation is ready, you will be redirected to setting page!',
+
+'You_have_chosen_to_schedule_the_block_to_turn_on_and_off_on_specific_dates' : 'You have chosen to schedule the block to turn on and off on specific dates',
+'Please' : 'Please',
+'click_here' : 'click here',
+'to_confirm_these_dates_are_correct' : 'to confirm these dates are correct.',
+'please_be_aware_string' : 'Please be aware that if you already have another gambling filtering software installed on your device this may prevent BetBlocker from functioning correctly.',
+'You_agree_to_the_BetBlocker_privacy_policy' : 'You agree to the BetBlocker privacy policy, which can be found here',
+'You_agree_to_the_BetBlocker_terms_of_use' : 'You agree to the BetBlocker terms of use, which can be found here',
+'You_agree_to_the_BetBlocker_license' : 'You agree to the BetBlocker license user agreement, which can be found here',
+
+'Activate' : 'Activate',
+
+'ACTIVATE' : 'ACTIVATE',
+
+'privacy_site' : 'https://betblocker.org/privacy-policy/',
+'terms_and_conditions_site' : 'https://betblocker.org/terms-and-conditions/',
+'end_user_agreement_site' : 'https://betblocker.org/end-user-agreement/',
+
+
+
+'Block_Gambling_Operator_Sites' : 'Block Gambling Operator Sites',
+'We_currently_include_a_list_of' : 'We currently include a list of',
+'gambling_operator_site_string' : 'gambling operator sites (sites that accept real money wagers). You can choose to include these sites in your restriction by ticking the box below.',
+'I_want_to_include_gambling_operator_sites_in_my_restriction' : 'I want to include gambling operator sites in my restriction.',
+
+
+
+
+'You_must_enter_Password' : 'You must enter Password',
+'You_must_enter_longer_Password' : 'You must enter longer Password',
+'Passwords_do_not_match' : 'Passwords do not match',
+
+
+
+
+'Create_a_password' : 'Create a password',
+
+'warning_msg' : 'WARNING: Keep your password safe! You cannot reset your password and will not ever be able to lift this restriction without it. Uninstalling or deleting this tool will NOT lift this restriction.',
+'Retype_your_password' : 'Retype your password',
+
+
+
+
+
+'Block_Pornography_Sites' : 'Block Pornography Sites',
+'We_currently_include_a_list_of' : 'We currently include a list of ',
+'pornographic_site_second_part_string' : 'pornographic sites. The primary purpose of these sites is to distribute pornography. You can choose to include these sites in your restriction by ticking the box below. Please note that this is only a small selection of the higher traffic sites of this nature.',
+'I_want_to_include_pornography_sites_in_my_restriction' : 'I want to include pornography sites in my restriction.',
+
+
+
+
+'Settings_for' : 'Settings for',
+
+'NO' : 'NO',
+'YES' : 'YES',
+
+
+'BACK' : 'BACK'
+'by_activating_gambling_exclusion' : 'By activating this Gambling-Exclusion you will be prevented from accessing the ',
+'gambling_websites_listed_str' : ' gambling websites listed in this tool for selected dates. You cannot undo this restriction until selected dates has passed. Even deleting this program will not remove the restriction.',
+'i_understand_and_agree_checkbox' : 'I understand and agree that I will not be able to remove this Gambling-Exclusion for selected dates.',
+'gambling_websites_listed_in_this_tool_for' : ' gambling websites listed in this tool for ',
+'you_cannot_undo_this' : ' You cannot undo this restriction until ',
+'has_passed' : ' has passed',
+'even_deleting_this' : ' Even deleting this program will not remove the restriction.',
+'your_restriction_will_be' : 'Your restriction will automatically be lifted at the end of',
+'not_be_able_to_remove_gambling_exclusion' : 'I understand and agree that I will not be able to remove this Gambling-Exclusion for ',
+
+
+
+
+
+'BetBlocker_can_be_used_for' : 'BetBlocker can be used for',
+'Gambling_Exclusion' : 'Setting Gambling Exclusion',
+'or' : 'or',
+
+'Recommended_for_problem_gamblers' : 'Recommended for problem gamblers',
+'time_based' : 'Time-based',
+'START' : 'Start',
+'Recommended_for_parental_control' : 'Recommended for parental control',
+'password_based' : 'Password-based',
+
+
