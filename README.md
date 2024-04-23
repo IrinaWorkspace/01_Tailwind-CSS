@@ -1,4 +1,4 @@
-![image]([image](https://github.com/IrinaWorkspace/01_Tailwind-CSS/blob/main/image%2020.png))
+![image](https://github.com/IrinaWorkspace/01_Tailwind-CSS/blob/main/image%2020.png)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
